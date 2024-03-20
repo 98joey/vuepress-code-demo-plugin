@@ -1,6 +1,6 @@
 {
   "name": "vuepress-plugin-code-demo-block",
-  "version": "1.8.0",
+  "version": "1.9.0",
   "description": "vuepress plugin code demo",
   "main": "index.js",
   "author": "jiaming.wu",
